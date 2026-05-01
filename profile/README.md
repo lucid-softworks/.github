@@ -9,7 +9,7 @@ $ ls ./projects
 <a href="https://github.com/lucid-softworks/asq.fyi">asq.fyi</a>     q&amp;a on at protocol — answers in your pds
 belvie      period tracker — calendar, predictions, logs
 coil        local-first knowledge base, markdown + wiki-links
-ember       typescript discord library
+<a href="https://github.com/lucid-softworks/ember">ember</a>       typescript discord library
 forge       swift macos cli, metal shaders
 haven       wallpaper app
 kage        gallery viewer with ai-generated subtitles
