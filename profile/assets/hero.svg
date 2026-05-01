@@ -13,7 +13,7 @@
     <rect y="34" width="26" height="6"/>
   </g>
   <text x="92" y="80" font-family="ui-monospace, 'JetBrains Mono', 'IBM Plex Mono', 'SF Mono', Menlo, Consolas, monospace"
-        font-size="13" letter-spacing="0.5" fill="#5a5a5a">~/lucid-softworks</text>
+        font-size="15" letter-spacing="0.5" fill="#5a5a5a">~/lucid-softworks</text>
 
   <!-- centered wordmark -->
   <text class="word" x="640" y="172" text-anchor="middle"
@@ -24,10 +24,10 @@
   <!-- tagline -->
   <text x="640" y="208" text-anchor="middle"
         font-family="ui-monospace, 'JetBrains Mono', 'IBM Plex Mono', 'SF Mono', Menlo, Consolas, monospace"
-        font-size="12" letter-spacing="2" fill="#5a5a5a">// quiet tools</text>
+        font-size="14" letter-spacing="2" fill="#5a5a5a">// quiet tools</text>
 
   <!-- bottom-right meta -->
   <text x="1224" y="280" text-anchor="end"
         font-family="ui-monospace, 'JetBrains Mono', 'IBM Plex Mono', 'SF Mono', Menlo, Consolas, monospace"
-        font-size="11" letter-spacing="0.5" fill="#5a5a5a">[ MIT  ·  est. 2026 ]</text>
+        font-size="13" letter-spacing="0.5" fill="#5a5a5a">[ MIT  ·  est. 2026 ]</text>
 </svg>
