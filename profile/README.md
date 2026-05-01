@@ -14,7 +14,7 @@ forge       swift macos cli, metal shaders
 haven       wallpaper app
 kage        gallery viewer with ai-generated subtitles
 lumen       habit tracker — heatmaps, streaks
-mori        life calendar — weeks lived vs remaining
+<a href="https://github.com/lucid-softworks/mori">mori</a>        life calendar — weeks lived vs remaining
 <a href="https://github.com/lucid-softworks/nova">nova</a>        social media scheduler with analytics
 opencal     scheduling — open-source cal.com alternative
 paas        self-hostable platform-as-a-service on k3s
